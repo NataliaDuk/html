@@ -1,1 +1,1 @@
-{"version":1,"defects":{"PaginationTest::testPg":3,"TableTest::testTable":3},"times":{"PaginationTest::testPg":0.044,"TableTest::testTable":0.014}}
+{"version":1,"defects":{"PaginationTest::testPg":3,"TableTest::testTable":3,"SelectTest::testSel":3},"times":{"PaginationTest::testPg":0.005,"TableTest::testTable":0.001,"SelectTest::testSel":0.001}}
